@@ -40,7 +40,7 @@ void setup(){
   
   cp5=new ControlP5(this);
   
-  ControlFont cf1 = new ControlFont(createFont("Times",15));
+  ControlFont cf1 = new ControlFont(createFont("Times",10));
   /*servoPos=cp5.addSlider("Servo Position")
   .setPosition(width/10,height/10*4)
   .setRange(3500,11500)
