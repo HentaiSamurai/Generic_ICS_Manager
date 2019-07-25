@@ -1,4 +1,7 @@
 # Generic_ICS_Manager
+
+ICS3.5 reference :https://kondo-robot.com/faq/ics3_5-command-reference
+
 get start  
   
 1.install processing3 at https://processing.org/  
@@ -22,4 +25,7 @@ how to use
 11.push "ENABLE_EEPROM_EDIT" button,some eeprom box color change to red.red color box can be edit.  
 12.push "SET_NOW_POS_U/D"button, set eeprom information to nowposition to set limitter(UP/DOWN)  
 13.push "OVERWRITE_EEPROM" button ,servo eeprom write by box information.  
-![howtouse](https://github.com/HentaiSamurai/Generic_ICS_Manager/blob/images/howToUse.png)
+![howtouse](https://github.com/HentaiSamurai/Generic_ICS_Manager/blob/images/howToUse.png)  
+  
+example shematic:
+![schematic](https://github.com/HentaiSamurai/Generic_ICS_Manager/blob/images/shematicExample.jpg)
