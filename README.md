@@ -4,6 +4,7 @@ get start
 1.install processing3 at https://processing.org/  
 2.open ICS_Manager/ICS_Manager.pde  
 3.install ControlP5 (at sketch->import library->add library,search  "ControlP5",install  
+![screenshot](https://github.com/HentaiSamurai/Generic_ICS_Manager/blob/images/installCP5.png)
 4.run sketch  
 
 how to use  
