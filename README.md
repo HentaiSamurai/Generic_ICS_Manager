@@ -4,13 +4,13 @@ get start
 1.install processing3 at https://processing.org/  
 2.open ICS_Manager/ICS_Manager.pde  
 3.install ControlP5 (at sketch->import library->add library,search  "ControlP5",install  
-![screenshot](https://github.com/HentaiSamurai/Generic_ICS_Manager/blob/images/installCP5.png)
+![screenshot](https://github.com/HentaiSamurai/Generic_ICS_Manager/blob/images/installCP5.png)  
 4.run sketch  
 
 how to use  
 
 1.connect your USB-uart and check portname eg:"COM10"  
-2.run sketch
+2.run sketch  
 3.select portname and baudrate of target servo  
 4.push "ENABLE_PORT" button  
 5.push "CHECK ONLINE ID"button  
