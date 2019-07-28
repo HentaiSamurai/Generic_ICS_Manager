@@ -24,7 +24,7 @@ Slider posLimitL;
 
 Textfield[] eeprom=new Textfield[64];
 String eepromTag[]={"const","const","strc_gain_H","strc_gain_L","spd_H","spd_L","punch_H","punch_L","dedbund_H","dedbund_L","dump_H","dump_L","slfTimer_H","slfTimer_L","flug_H","flug_L","plslm_H_HH","plslm_H_HL","plslm_H_LH","plslm_H_LL"
-,"plslm_L_HH","plslm_L_HL","plslm_L_LH","plslm_L_LL","cpnst","const","uartspd_H","uartspd_L","tmplim_H","templim_L","curlim_H","curlim_L","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const"
+,"plslm_L_HH","plslm_L_HL","plslm_L_LH","plslm_L_LL","const","const","uartspd_H","uartspd_L","tmplim_H","templim_L","curlim_H","curlim_L","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const","const"
 ,"resp_H","resp_L","usroff_H","usroff_L","const","const","id_H","id_L","curstr_1_H","curstr_1_L","curstr_2_H","curstr_2_L","curstr_3_H","curstr_3_L"};
 
 byte selectedPort=0;
